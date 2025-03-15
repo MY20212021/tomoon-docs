@@ -1,0 +1,23 @@
+{
+  "name": "coin-egg-docs",
+  "version": "1.0.0",
+  "description": "Coin Egg 应用文档",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs --port 3000",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs --port 3000"
+  },
+  "keywords": [
+    "coin-egg",
+    "documentation",
+    "vitepress"
+  ],
+  "author": "Coin Egg Team",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.40",
+    "vue": "^3.3.4"
+  }
+} 
