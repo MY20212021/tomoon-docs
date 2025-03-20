@@ -5,10 +5,9 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vitepress dev docs --port 3000",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs --port 3000",
-    "build": "vitepress build docs"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
   },
   "keywords": [
     "ToMoon",
