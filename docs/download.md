@@ -42,13 +42,13 @@
 请选择适合您操作系统的版本：
 
 <div class="download-buttons">
-  <a href="https://pub-9704f54480054a10a5ff685cf4bf5f1f.r2.dev/ToMoon-win-1.1.6-x64.exe" class="download-button windows">
+  <a href="https://pub-9704f54480054a10a5ff685cf4bf5f1f.r2.dev/ToMoon-win-1.0.1-x64.exe" class="download-button windows">
     <span class="icon">🪟</span>
     <span class="text">Windows (64位)</span>
     <span class="size">85.4 MB</span>
   </a>
   
-  <a href="https://pub-9704f54480054a10a5ff685cf4bf5f1f.r2.dev/ToMoon-mac-1.1.6.dmg" class="download-button macos">
+  <!-- <a href="https://pub-9704f54480054a10a5ff685cf4bf5f1f.r2.dev/ToMoon-mac-1.1.6.dmg" class="download-button macos">
     <span class="icon">🍎</span>
     <span class="text">macOS (Intel)</span>
     <span class="size">79.2 MB</span>
@@ -70,7 +70,7 @@
     <span class="icon">🐧</span>
     <span class="text">Linux (Debian/Ubuntu)</span>
     <span class="size">81.5 MB</span>
-  </a>
+  </a> -->
 </div>
 
 ## 验证下载
