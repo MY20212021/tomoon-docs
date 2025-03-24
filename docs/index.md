@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "ToMoon"
-  text: "智能自动化工作平台"
-  tagline: "让重复性工作自动化，释放您的创造力"
+  text: "撸毛自动化平台"
+  tagline: "让撸毛变得简单，你也可以是科学家"
   actions:
     - theme: brand
       text: 快速开始
