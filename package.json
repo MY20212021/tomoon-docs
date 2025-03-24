@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev docs --port 3000",
-    "docs:build": "vitepress build docs",
+    "docs:build": "npx vitepress build docs",
     "docs:preview": "vitepress preview docs --port 3000"
   },
   "keywords": [
