@@ -10,8 +10,8 @@ export default defineConfig({
   // 忽略死链接检查
   ignoreDeadLinks: true,
   
-  // 设置构建输出目录为仓库根目录
-  outDir: '../dist',
+  // 设置构建输出目录为根目录下的dist目录
+  outDir: '../../dist',
   
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
