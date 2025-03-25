@@ -12,6 +12,9 @@ hero:
     - theme: alt
       text: 立即下载
       link: /download
+    - theme: alt
+      text: 联系客服
+      link: https://twitter.com/yipinruxi888
 
 features:
   - icon: 🔒

@@ -74,25 +74,10 @@
   </a> -->
 </div>
 
-## 验证下载
-
-为确保您下载的文件未被篡改，我们提供了 SHA-256 校验和。您可以使用以下命令验证下载文件的完整性：
-
-```bash
-# Windows (使用 PowerShell)
-Get-FileHash -Algorithm SHA256 path\to\downloaded\file.exe
-
-# macOS 和 Linux
-shasum -a 256 path/to/downloaded/file
-```
-
-## 历史版本
-
-如果您需要下载旧版本，请访问我们的[历史版本页面](/download/archive)。
 
 ## 安装指南
 
-下载完成后，请按照[安装指南](/guide/installation)中的步骤进行安装。
+下载完成后，请按照[安装指南](/guide/getting-started)中的步骤进行安装。
 
 ## 常见问题
 
