@@ -27,23 +27,20 @@
 
 ## 最新版本
 
-当前最新版本：**v1.0.4**（发布日期：2025年3月24日）
+当前最新版本：**v1.0.5**（发布日期：2025年3月25日）
 
 ### 新功能和改进
-- 新增项目自动化功能
-- 优化浏览器自动化性能
+- 新增sahra白名单项目自动化功能
 - 改进用户界面，提升用户体验
 - 增强安全性，优化数据加密方式
 - 修复已知问题和 bug
-
-查看完整的[更新日志](/changelog)了解详情。
 
 ## 下载链接
 
 请选择适合您操作系统的版本：
 
 <div class="download-buttons">
-  <a href="https://pub-9704f54480054a10a5ff685cf4bf5f1f.r2.dev/ToMoon-win-1.0.4-x64.exe" class="download-button windows">
+  <a href="https://pub-9704f54480054a10a5ff685cf4bf5f1f.r2.dev/ToMoon-win-1.0.5-x64.exe" class="download-button windows">
     <span class="icon">🪟</span>
     <span class="text">Windows (64位)</span>
     <span class="size">85.4 MB</span>
