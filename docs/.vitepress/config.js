@@ -14,7 +14,8 @@ export default defineConfig({
   // outDir: '../../dist',
   
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/images/icon.ico' }],
+    ['link', { rel: 'icon', href: '/images/icon.png', type: 'image/png' }]
   ],
   
   themeConfig: {
@@ -39,7 +40,8 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/tomoon-project/tomoon' }
+      { icon: 'github', link: 'https://github.com/MY20212021/tomoon-docs'},
+      { icon: 'twitter', link: 'https://twitter.com/yipinruxi888'}
     ],
 
     footer: {
