@@ -27,10 +27,13 @@
 
 ## 最新版本
 
-当前最新版本：**v1.0.5**（发布日期：2025年3月25日）
+当前最新版本：**v1.0.7**（发布日期：2025年3月25日）
 
 ### 新功能和改进
-- 新增sahra白名单项目自动化功能
+- 新增sahra白名单项目半神任务
+- sahra白名单任务越狱题优化
+- 新增sahra白名单任务支持跳过低分
+- sahara白名单任务增加使用gemini api(免费的可以去申请)
 - 改进用户界面，提升用户体验
 - 增强安全性，优化数据加密方式
 - 修复已知问题和 bug
@@ -40,7 +43,7 @@
 请选择适合您操作系统的版本：
 
 <div class="download-buttons">
-  <a href="https://pub-9704f54480054a10a5ff685cf4bf5f1f.r2.dev/ToMoon-win-1.0.5-x64.exe" class="download-button windows">
+  <a href="https://pub-9704f54480054a10a5ff685cf4bf5f1f.r2.dev/ToMoon-win-1.0.7-x64.exe" class="download-button windows">
     <span class="icon">🪟</span>
     <span class="text">Windows (64位)</span>
     <span class="size">85.4 MB</span>
